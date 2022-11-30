@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tolunaytezcan" alt="tolunaytezcan" /></a> </p>
 
-- 🔭 I’m currently working at **eBay | GittiGidiyor**
+- 🔭 I’m currently working at **HepsiBurada**
 
 - 💪 I develop mobile and web applications
 
