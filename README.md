@@ -39,8 +39,8 @@ I try to improve myself and I am always open to innovations.
 ## 📊 GitHub Stats
 
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=tolunaytezcan&count_private=true&show_icons=true&theme=tokyonight" alt="tolunaytezcan" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tolunaytezcan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tolunaytezcan" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=tolunaytezcan&count_private=true&show_icons=true&theme=tokyonight" alt="tolunaytezcan" />
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tolunaytezcan&hide=html,ruby&layout=compact&show_icons=true&theme=tokyonight" alt="tolunaytezcan" />
 <div/>
 
