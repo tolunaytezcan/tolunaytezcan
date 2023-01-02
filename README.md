@@ -1,13 +1,10 @@
-# Hello there 👋
+# Hello there 👋, I'm Tolunay
 
-### Hi, I'm Tolunay
+<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761167999e1d52036df7e4cbff0363ca71071cb16ab2&amp;rid=giphy.gif&amp;ct=g" alt="gif" style="width: 500px; height: 375px;">
 
 <p>
-I'm a Frontend Engineer who loves new challenges.
-I try to improve myself and I am always open to innovations.
+I'm a Frontend Engineer who loves new challenges. I try to improve myself and I am always open to innovations. I am currently working as a Frontend Developer at <a href="https://www.hepsiburada.com/">HepsiBurada</a>
 <p/>
-
-<p>I am currently working as a Frontend Developer at <a href="https://www.hepsiburada.com/">HepsiBurada</a><p/>
 
 [![GitHub followers](https://img.shields.io/github/followers/tolunaytezcan.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tolunaytezcan?tab=followers)
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=tolunaytezcan.visitor-badge)](https://GitHub.com/tolunaytezcan/StrapDown.js/stargazers/)
