@@ -7,7 +7,7 @@ I'm a Frontend Engineer who loves new challenges. I try to improve myself and I 
 <p/>
 
 [![GitHub followers](https://img.shields.io/github/followers/tolunaytezcan.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tolunaytezcan?tab=followers)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=tolunaytezcan.visitor-badge)](https://GitHub.com/tolunaytezcan/StrapDown.js/stargazers/)
+<img align="left" src="https://komarev.com/ghpvc/?username=tolunaytezcan&color=51c2d5">
 
 ### Contact with me
 
