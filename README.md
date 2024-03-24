@@ -33,3 +33,4 @@ I'm a Frontend Engineer who loves new challenges. I try to improve myself and I 
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></img>
 </div>
 
+<img src="https://raw.githubusercontent.com/tolunaytezcan/tolunaytezcan/output/snake.svg" alt="Snake animation" />
