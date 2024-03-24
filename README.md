@@ -33,12 +33,3 @@ I'm a Frontend Engineer who loves new challenges. I try to improve myself and I 
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></img>
 </div>
 
-## 📊 GitHub Stats
-
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tolunaytezcan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tolunaytezcan" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=tolunaytezcan&count_private=true&show_icons=true&theme=tokyonight" alt="tolunaytezcan" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tolunaytezcan&hide=html,ruby&layout=compact&show_icons=true&theme=tokyonight" alt="tolunaytezcan" />
-<div/>
-
-![snake svg](https://github.com/tolunaytezcan/tolunaytezcan/blob/output/github-contribution-grid-snake.svg)
