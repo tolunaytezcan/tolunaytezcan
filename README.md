@@ -1,6 +1,10 @@
-# Hello there 👋, I'm Tolunay
 
-<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761167999e1d52036df7e4cbff0363ca71071cb16ab2&amp;rid=giphy.gif&amp;ct=g" alt="gif" style="width: 500px; height: 375px;">
+
+# Hello there!
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=00FF99&width=440&height=45&lines=I'm+Tolunay+Tezcan;Frontend+Developer;5%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
+
+<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761167999e1d52036df7e4cbff0363ca71071cb16ab2&amp;rid=giphy.gif&amp;ct=g" alt="gif" style="width: 400px; height: 300px;">
+
 
 <p>
 I'm a Frontend Engineer who loves new challenges. I try to improve myself and I am always open to innovations. I am currently working as a Frontend Developer at <a href="https://www.hepsiburada.com/">HepsiBurada</a>
